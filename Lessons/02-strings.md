@@ -1,9 +1,3 @@
-I actually think Lesson 2 is the point where readers should stop just predicting outputs and start **writing small pieces of code**. Backend engineers manipulate strings constantly.
-
-I would keep your original P1–P5 and add **three coding exercises** that feel realistic.
-
----
-
 # Lesson 2 — Strings
 
 ## Review of Lesson 1
